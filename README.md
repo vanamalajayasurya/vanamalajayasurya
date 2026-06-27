@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="profile.jpg" width="150" style="border-radius:50%" />
+<img src="profile.jpg" width="150" style="border-radius:50%; border: 3px solid #2EBFB3; animation: spin 3s linear infinite;" />
 
 <br/>
 
