@@ -1,16 +1,20 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=shark&color=0:8360c3,100:2ebf91&height=140&section=header&text=Vanamala%20Jayasurya&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=55)
+![Wave Header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn)
 
-</div>
+<img src="profile.jpg" width="150" style="border-radius:50%" />
 
----
+<br/>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+# Vanamala Jayasurya
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=2EBFB3&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jayasurya+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<p><i>✨ Turning data into insights · Ideas into interfaces · Code into experiences ✨</i></p>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=jayasurya&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,7 +22,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
 Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** student at Pallavi Engineering College, Hyderabad, passionate about **Frontend Development**, **UI/UX Design**, and **Data Analytics**.
 
@@ -39,17 +43,9 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 - 📚 Final-year student who codes for fun *and* for grades
 - 🌸 Exploring AI, NLP, and everything that feels like the future
 
-<div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Decorative GIF" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50" />
-</div>
 
 **Frontend**
 
@@ -94,11 +90,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayasurya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanamala-jayasurya-5b1138324/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jay._surya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://jayasuryaportfilio.vercel.app/)
@@ -109,10 +101,6 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="60" />
-</div>
 
 <div align="center">
 
@@ -129,16 +117,12 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60" />
+<img src="https://github-readme-stats.vercel.app/api?username=jayasurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayasurya&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%" />
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2EBFB3&icon_color=8360C3&text_color=C9D1D9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=2EBFB3&fire=8360C3&currStreakLabel=2EBFB3" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EBFB3&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EBFB3&line=8360C3&point=FFFFFF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasurya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="98%" />
 
 </div>
 
@@ -148,7 +132,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=jayasurya&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10" />
 
 </div>
 
@@ -158,10 +142,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<!-- After setting up your profile repo, generate the snake via GitHub Actions:
-     Go to: https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/actions
-     Or use: https://github.com/Platane/snk to set it up once -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -171,7 +152,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -179,11 +160,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="Coding GIF" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2ebfb3&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF" />
 
 </div>
 
@@ -191,7 +168,7 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 <div align="center">
 
-![Wave Footer](https://capsule-render.vercel.app/api?type=shark&color=0:2ebf91,100:8360c3&height=140&section=footer&animation=twinkling)
+![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge)](https://jayasuryaportfilio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanamala-jayasurya-5b1138324/)
@@ -201,7 +178,5 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 <br/>
 
 > *"Thanks for visiting my profile. Let's build something amazing together."*
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
 
 </div>
