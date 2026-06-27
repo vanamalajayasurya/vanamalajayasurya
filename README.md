@@ -2,7 +2,7 @@
 
 ![Wave Header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn)
 
-<img src="https://raw.githubusercontent.com/jayasurya/jayasurya/main/profile.jpg" width="150" style="border-radius:50%" />
+<img src="profile.jpg" width="150" style="border-radius:50%" />
 
 <br/>
 
