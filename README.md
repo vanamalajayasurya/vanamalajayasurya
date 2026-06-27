@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:8360c3,100:2ebf91&height=150&section=header&text=Vanamala%20Jayasurya&fontSize=40&fontColor=ffffff&animation=scaleIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=Frontend+Developer+🚀;Data+Analyst+📊;UI%2FUX+Designer+🎨;AI+Enthusiast+🤖)](https://git.io/typing-svg)
 
 <img src="profile.jpg" width="150" style="border-radius:50%" />
 
