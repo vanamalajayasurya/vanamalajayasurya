@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:2ebf91,100:8360c3&height=170&section=header&text=Vanamala%20Jayasurya&fontSize=38&fontColor=ffffff&animation=fadeIn)
+![Wave Header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=&animation=fadeIn)
 
 <img src="profile.jpg" width="150" style="border-radius:50%" />
 
