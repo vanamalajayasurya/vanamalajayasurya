@@ -1,11 +1,9 @@
-# Save this file in your profile repo (vanamalajayasurya/vanamalajayasurya) at:
-# .github/workflows/profile-3d.yml
 name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # runs every day (18:00 UTC)
-  workflow_dispatch:        # lets you run it manually
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
