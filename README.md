@@ -17,21 +17,29 @@
 
 <br/>
 
+<!-- NEW: graduate + open-to-work animated line -->
+[![Graduate Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+B.Tech+CSE+(Data+Science)+Graduate+%7C+Class+of+2026;%F0%9F%9F%A2+Open+to+work+%E2%80%94+Frontend+%7C+UI%2FUX+%7C+Data+Analyst;%F0%9F%93%8D+Hyderabad%2C+India+%E2%80%94+Open+to+Remote+too;%E2%9A%A1+Let's+build+something+amazing+together)](https://git.io/typing-svg)
+
+<br/>
+
 <p><i>✨ Turning data into insights · Ideas into interfaces · Code into experiences ✨</i></p>
 
 <br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=vanamalajayasurya&color=2ebfb3&style=for-the-badge&label=PROFILE+VIEWS)
+![Graduate](https://img.shields.io/badge/🎓_GRADUATE-CLASS_OF_2026-6C63FF?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-YES-2EBFB3?style=for-the-badge)
 
 </div>
 
----
+<!-- NEW: animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🙋‍♂️ About Me
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
 
-Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** student at Pallavi Engineering College, Hyderabad, passionate about **Frontend Development**, **UI/UX Design**, and **Data Analytics**.
+Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** from Pallavi Engineering College, Hyderabad, passionate about **Frontend Development**, **UI/UX Design**, and **Data Analytics**.
 
 🏢 I've completed **3 internships** across:
 - 🔬 **IIT Hyderabad** — Web Development under Dr. Chintapalli Sobhan Babu
@@ -47,8 +55,19 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 - 🤖 I believe every problem has a data-driven solution *(still testing this theory)*
 - 🌐 From Figma frames to deployed apps — I do the full journey
 - ☕ Fueled by strong coffee and stronger commit messages
-- 📚 Final-year student who codes for fun *and* for grades
+- 🎓 Graduated, and still coding for fun *and* for impact
 - 🌸 Exploring AI, NLP, and everything that feels like the future
+
+---
+
+<!-- NEW: animated journey section -->
+## 🎓 My Journey
+
+<div align="center">
+
+[![Journey Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=8360C3&center=true&vCenter=true&width=750&lines=Learned+the+fundamentals+%E2%86%92+HTML%2C+CSS%2C+JavaScript;Built+real+projects+%E2%86%92+Flask%2C+React%2C+AI+apps;Interned+at+IIT+Hyderabad+%2B+Galactix+%2B+VISWAM.AI;Graduated+B.Tech+CSE+(Data+Science)+%F0%9F%8E%93;Next+chapter+%E2%86%92+shipping+products+at+a+great+team+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -172,6 +191,21 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 
 ---
 
+<!-- NEW: animated "currently" section -->
+## 🔭 What I'm Up To Now
+
+<div align="center">
+
+[![Now Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=2EBFB3&center=true&vCenter=true&width=750&lines=%F0%9F%94%8D+Applying+for+Frontend+%7C+UI%2FUX+%7C+Data+Analyst+roles;%F0%9F%A4%96+Building+more+AI-powered+apps;%F0%9F%8E%A8+Polishing+my+portfolio+and+Figma+case+studies;%F0%9F%93%88+Leveling+up+in+React%2C+Python+and+Power+BI;%F0%9F%A4%9D+Open+to+collaborations+and+opportunities)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=Let's%20Connect%20%F0%9F%A4%9D&fontSize=28&fontColor=2EBFB3&animation=twinkling" width="100%" />
+
+</div>
+
+---
+
 ## 💬 My Vibe
 
 <div align="center">
@@ -210,5 +244,3 @@ Hey! I'm **Vanamala Jayasurya** — a final-year **B.Tech CSE (Data Science)** s
 > *"Thanks for visiting my profile. Let's build something amazing together."*
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
-
-</div>
