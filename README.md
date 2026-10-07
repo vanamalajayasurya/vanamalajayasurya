@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="banner.svg" width="100%" alt="Vanamala Jayasurya banner" />
+<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/banner.svg" width="100%" alt="Vanamala Jayasurya banner" />
 
 <br/><br/>
 
@@ -13,16 +13,12 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=50&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=VANAMALA+JAYASURYA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=50&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=VANAMALA+JAYASURYA)](https://git.io/typing-svg)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=2EBFB3&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=2EBFB3&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- NEW: graduate + open-to-work animated line -->
-[![Graduate Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+B.Tech+CSE+(Data+Science)+Graduate+%7C+Class+of+2026;%F0%9F%9F%A2+Open+to+work+%E2%80%94+Frontend+%7C+UI%2FUX+%7C+Data+Analyst;%F0%9F%93%8D+Hyderabad%2C+India+%E2%80%94+Open+to+Remote+too;%E2%9A%A1+Let's+build+something+amazing+together)](https://git.io/typing-svg)
+[![Graduate Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&height=30&lines=%F0%9F%8E%93+B.Tech+CSE+(Data+Science)+Graduate+%7C+Class+of+2026;%F0%9F%9F%A2+Open+to+work+%E2%80%94+Frontend+%7C+UI%2FUX+%7C+Data+Analyst;%F0%9F%93%8D+Hyderabad%2C+India+%E2%80%94+Open+to+Remote+too;%E2%9A%A1+Let's+build+something+amazing+together)](https://git.io/typing-svg)
 
 <br/>
 
@@ -38,7 +34,7 @@
 
 <div align="center">
 
-<img src="skills-marquee.svg" width="100%" alt="Skills ribbon" />
+<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/skills-marquee.svg" width="100%" alt="Skills ribbon" />
 
 </div>
 
@@ -77,8 +73,8 @@ Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** fro
 
 <table>
 <tr>
-<td align="center"><img src="graduation.svg" width="260" alt="Graduation" /></td>
-<td align="center"><img src="terminal.svg" width="520" alt="Terminal" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/graduation.svg" width="260" alt="Graduation" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/terminal.svg" width="520" alt="Terminal" /></td>
 </tr>
 </table>
 
