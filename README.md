@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/banner.svg" width="100%" alt="Vanamala Jayasurya banner" />
+<img src="banner.svg" width="100%" alt="Vanamala Jayasurya banner" />
 
 <br/><br/>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/skills-marquee.svg" width="100%" alt="Skills ribbon" />
+<img src="skills-marquee.svg" width="100%" alt="Skills ribbon" />
 
 </div>
 
@@ -73,8 +73,8 @@ Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** fro
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/graduation.svg" width="260" alt="Graduation" /></td>
-<td align="center"><img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/assets/terminal.svg" width="520" alt="Terminal" /></td>
+<td align="center"><img src="graduation.svg" width="260" alt="Graduation" /></td>
+<td align="center"><img src="terminal.svg" width="520" alt="Terminal" /></td>
 </tr>
 </table>
 
