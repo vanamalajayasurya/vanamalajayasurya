@@ -195,7 +195,7 @@ Hey! I'm **Vanamala Jayasurya** — a Hyderabad-based developer passionate about
 
 <div align="center">
 
-<img src="profile-3d.yml" width="100%" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
