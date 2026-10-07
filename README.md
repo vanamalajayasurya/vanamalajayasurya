@@ -17,8 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=800&color=2EBFB3&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;UI%2FUX+Designer+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Building+cool+things+with+code+%E2%9C%A8)](https://git.io/typing-svg)
 
-<!-- NEW: graduate + open-to-work animated line -->
-[![Graduate Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&height=30&lines=%F0%9F%8E%93+B.Tech+CSE+(Data+Science)+Graduate+%7C+Class+of+2026;%F0%9F%9F%A2+Open+to+work+%E2%80%94+Frontend+%7C+UI%2FUX+%7C+Data+Analyst;%F0%9F%93%8D+Hyderabad%2C+India+%E2%80%94+Open+to+Remote+too;%E2%9A%A1+Let's+build+something+amazing+together)](https://git.io/typing-svg)
+[![Open Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FF6B9D&center=true&vCenter=true&width=700&height=30&lines=%F0%9F%9F%A2+Open+to+work+%E2%80%94+Frontend+%7C+UI%2FUX+%7C+Data+Analyst;%F0%9F%93%8D+Hyderabad%2C+India+%E2%80%94+Open+to+Remote+too;%E2%9A%A1+Let's+build+something+amazing+together)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +26,6 @@
 <br/>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=vanamalajayasurya&color=2ebfb3&style=for-the-badge&label=PROFILE+VIEWS)
-![Graduate](https://img.shields.io/badge/🎓_GRADUATE-CLASS_OF_2026-6C63FF?style=for-the-badge)
 ![Open To Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-YES-2EBFB3?style=for-the-badge)
 
 </div>
@@ -38,14 +36,13 @@
 
 </div>
 
-<!-- NEW: animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🙋‍♂️ About Me
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
 
-Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** from Pallavi Engineering College, Hyderabad, passionate about **Frontend Development**, **UI/UX Design**, and **Data Analytics**.
+Hey! I'm **Vanamala Jayasurya** — a Hyderabad-based developer passionate about **Frontend Development**, **UI/UX Design**, and **Data Analytics**. I hold a B.Tech in CSE (Data Science) from Pallavi Engineering College (2026).
 
 🏢 I've completed **3 internships** across:
 - 🔬 **IIT Hyderabad** — Web Development under Dr. Chintapalli Sobhan Babu
@@ -61,22 +58,15 @@ Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** fro
 - 🤖 I believe every problem has a data-driven solution *(still testing this theory)*
 - 🌐 From Figma frames to deployed apps — I do the full journey
 - ☕ Fueled by strong coffee and stronger commit messages
-- 🎓 Graduated, and still coding for fun *and* for impact
 - 🌸 Exploring AI, NLP, and everything that feels like the future
 
 ---
 
-<!-- NEW: animated journey section -->
-## 🎓 My Journey
+## 💻 My Journey
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="graduation.svg" width="260" alt="Graduation" /></td>
-<td align="center"><img src="terminal.svg" width="520" alt="Terminal" /></td>
-</tr>
-</table>
+<img src="terminal.svg" width="720" alt="Terminal" />
 
 </div>
 
@@ -107,6 +97,8 @@ Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** fro
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -159,6 +151,11 @@ Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** fro
 | Parses resumes, calculates ATS scores, generates career roadmaps, and provides AI-powered suggestions using Gemini AI. | Full-stack nutrition chatbot that tracks meals, calculates macros, and offers personalized diet advice. |
 | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-8E44AD?style=flat-square&logo=google&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
+| 🎙️ Aelyra — AI Personal Assistant | 📚 AI Research Assistant |
+|:---|:---|
+| Local AI personal assistant with a Flask backend running Llama 3.2 (3B) through Ollama, plus mic voice input and text-to-speech replies. | Python tool that summarizes long text and answers questions from it using Hugging Face transformers pipelines (DistilBART and RoBERTa), with automatic GPU/CPU selection. |
+| ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) ![Ollama](https://img.shields.io/badge/-Ollama-000?style=flat-square&logo=ollama) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat-square&logo=google&logoColor=white) |
+
 </div>
 
 ---
@@ -202,7 +199,6 @@ Hey! I'm **Vanamala Jayasurya** — a **B.Tech CSE (Data Science) graduate** fro
 
 ---
 
-<!-- NEW: animated "currently" section -->
 ## 🔭 What I'm Up To Now
 
 <div align="center">
