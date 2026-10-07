@@ -169,7 +169,7 @@ Hey! I'm **Vanamala Jayasurya** — a Hyderabad-based developer passionate about
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanamalajayasurya&theme=radical&hide_border=true&bg_color=0D1117&title_color=2EBFB3&text_color=C9D1D9&layout=compact&langs_count=8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanamalajayasurya&theme=react-dark&hide_border=true&bg_color=0D1117&color=2EBFB3&line=8360C3&point=FFFFFF" width="98%" />
+<img src="https://ghchart.rshah.org/2EBFB3/vanamalajayasurya" width="98%" alt="GitHub contribution chart" />
 
 </div>
 
@@ -183,7 +183,9 @@ Hey! I'm **Vanamala Jayasurya** — a Hyderabad-based developer passionate about
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vanamalajayasurya&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" />
+![Followers](https://img.shields.io/github/followers/vanamalajayasurya?style=for-the-badge&logo=github&color=2EBFB3&labelColor=0D1117)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vanamalajayasurya&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=8360C3&labelColor=0D1117)
+![Member Since](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vanamalajayasurya&query=$.created_at&label=Member%20Since&style=for-the-badge&logo=github&color=FFD700&labelColor=0D1117)
 
 </div>
 
