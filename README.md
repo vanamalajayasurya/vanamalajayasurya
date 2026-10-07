@@ -191,11 +191,11 @@ Hey! I'm **Vanamala Jayasurya** — a Hyderabad-based developer passionate about
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
