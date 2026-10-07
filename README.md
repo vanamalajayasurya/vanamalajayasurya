@@ -191,11 +191,15 @@ Hey! I'm **Vanamala Jayasurya** — a Hyderabad-based developer passionate about
 
 ---
 
-## 📈 3D Contribution Graph
+## 📈 Profile Summary
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanamalajayasurya/vanamalajayasurya/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanamalajayasurya&theme=radical" width="49%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanamalajayasurya&theme=radical" width="49%" alt="Repos per language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanamalajayasurya&theme=radical" width="49%" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanamalajayasurya&theme=radical" width="49%" alt="Stats" />
 
 </div>
 
